@@ -221,3 +221,70 @@ Zombie VDP bukan sekadar alat. Ia adalah rekan setia yang hidup di malam hari, m
 
 Made with 🧠 & 🖤 by Dikha Pormes
 ```
+---
+
+⚠️ Ethical Use Only · [Nama Proyek]
+
+Peringatan keras: Kode ini dibuat untuk tujuan edukasi, riset keamanan yang sah, dan pengujian sistem milik sendiri atau dengan izin tertulis.
+Setiap penyalahgunaan untuk tindakan ilegal, peretasan tanpa izin, pencurian data, atau kejahatan siber lainnya bukanlah tanggung jawab penulis.
+
+---
+
+📜 Lisensi & Kebijakan Penggunaan
+
+Proyek ini dilisensikan di bawah [MIT / GPL / CC BY-NC-ND] dengan syarat tambahan:
+
+· ❌ Dilarang menggunakan untuk:
+  · Akses ilegal ke sistem orang lain.
+  · Mencuri, merusak, atau memanipulasi data tanpa izin.
+  · Spam, phishing, DDoS, atau bentuk serangan siber lainnya.
+  · Melanggar hukum nasional maupun internasional.
+· ✅ Diizinkan untuk:
+  · Belajar mekanisme keamanan dan kerentanan.
+  · Mengaudit atau melindungi sistem yang menjadi tanggung jawab Anda.
+  · Menggunakan dalam CTF (Capture The Flag) resmi, laboratorium kampus, atau pelatihan etis.
+
+Dengan mengunduh atau menggunakan kode ini, Anda menyetujui bahwa penulis tidak bertanggung jawab atas segala konsekuensi penyalahgunaan.
+
+---
+
+🛡️ Prinsip “Do No Harm”
+
+Kami menerapkan standar etika berdasarkan Coordinated Vulnerability Disclosure dan HackerOne Code of Conduct.
+Jika Anda menemukan kerentanan di dunia nyata, laporkan secara bertanggung jawab – jangan eksploitasi.
+
+---
+
+📞 Kontak & Pelaporan Penyalahgunaan
+
+Jika Anda mengetahui pihak yang menyalahgunakan kode ini untuk tindakan kriminal, harap laporkan ke:
+📧 d7xraps90@gmail.com
+Atau buka issue di repositori ini.
+
+---
+
+🧪 Contoh Penggunaan Etis
+
+```bash
+# Hanya gunakan di lingkungan yang Anda kuasai / miliki izin
+#root# - python3 zombie.py
+```
+
+[!CAUTION]
+Jalankan sekali pun dengan niat iseng pada sistem orang lain = ILEGAL.
+Pelajari UU ITE pasal 30–35 (Indonesia) atau undang-undang siber negara Anda.
+
+---
+
+🤝 Kontribusi
+
+Pull request diterima selama menambah nilai edukasi atau pertahanan siber, bukan alat baru untuk menyerang.
+
+---
+
+Ingat: Dengan kekuatan kode datang tanggung jawab besar.
+Jadilah ethical hacker yang melindungi, bukan kriminal yang merusak.
+
+---
+
+© [T\2026] – [Dikha Pormes] | Untuk dunia maya yang lebih aman.
